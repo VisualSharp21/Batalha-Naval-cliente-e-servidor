@@ -1,10 +1,3 @@
-Com certeza! Como você pediu para padronizar com o **Servidor Exclusivo** (aquele que usa `write`/`read` e nomes de variáveis diferentes), eu peguei aquela base blindada contra plágio e adicionei **comentários didáticos linha por linha**.
-
-Agora você tem o **Cliente Definitivo**, totalmente protegido contra cópias e com uma "aula" escrita nos comentários para você saber explicar cada etapa para o professor.
-
-Aqui está o seu código final do Cliente:
-
-```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
