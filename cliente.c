@@ -1,10 +1,3 @@
-Feito! Eu peguei exatamente o código que você mandou e alterei **apenas** as linhas do `printf` dentro da função `desenhar_interface` para empurrar a régua de números e o título do "RADAR INIMIGO" para a direita, alinhando perfeitamente com os pontinhos do tabuleiro.
-
-*(Nota: também limpei alguns "espaços invisíveis" que costumam bugar o compilador quando a gente copia e cola da internet, para garantir que vai rodar de primeira).*
-
-Aqui está o seu **Cliente Definitivo com o bug visual corrigido**:
-
-```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -437,5 +430,3 @@ encerrar:
     close(socket_cliente);
     return 0;
 }
-
-```
