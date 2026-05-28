@@ -429,4 +429,3 @@ encerrar:
     return 0;
 }
 
-```
